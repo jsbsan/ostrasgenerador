@@ -8,5 +8,7 @@ Public Sub Form_Open()
   '2º commit
   'solo ficheros iniciales
   '3º depues de crear el paquete deb
+  '4º creando ejecutable
+  '
 
 End

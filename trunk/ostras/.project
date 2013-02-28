@@ -1,9 +1,20 @@
 # Gambas Project File 3.0
+# Compiled with Gambas 3.3.4
 Title=ostras
 Startup=FMain
+Version=0.0.1
 Component=gb.image
 Component=gb.gui
 Component=gb.form
+TabSize=2
 Translate=1
-Language=es_ES.UTF-8
-
+Language=es
+Maintainer=uno
+Address=uno@uno-Presario-V6700-Notebook-PC
+License=General Public License
+PackageName=ostras-0.0.1
+CreateEachDirectory=1
+Packager=1
+Systems=debian
+Menus=debian:"Applications/Editors"
+Groups=debian:"cli-mono"

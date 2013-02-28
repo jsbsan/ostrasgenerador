@@ -1,9 +1,12 @@
 ' Gambas class file
 
 Public Sub _new()
-
+  
 End
 
 Public Sub Form_Open()
+  '2º commit
+  'solo ficheros iniciales
+  '3º depues de crear el paquete deb
 
 End
